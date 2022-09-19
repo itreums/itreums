@@ -9,8 +9,10 @@
 <img align="left" alt="Gulp" width="26px" src="./src/img/icons8-gulp.svg" />
 <img align="left" alt="Vue" width="26px" src="./src/img/icons8-vue-js.svg" />
 <img align="left" alt="Nuxt" width="26px" src="./src/img/icons8-nuxtjs.svg" />
-<img align="left" alt="JavaScript" width="26px" src="./src/img/icons8-javascript.svg" />
 
+<img align="left" alt="JavaScript" width="26px" src="./src/img/icons8-javascript.svg" />
+<img align="left" alt="Bootstrap" width="26px" src="./src/img/icons8-bootstrap.svg" />
+<img align="left" alt="Vuetify" width="26px" src="./src/img/icons8-vuetify.svg" />
 <img align="left" alt="PHP" width="26px" src="./src/img/icons8-php.svg" />
 <img align="left" alt="MySQL" width="26px" src="./src/img/icons8-mysql.svg" />
 
