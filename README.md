@@ -7,7 +7,7 @@
 <img align="left" alt="CSS3" width="26px" src="./src/img/css.svg" />
 <img align="left" alt="Sass" width="26px" src="./src/img/sass.svg" />
 <img align="left" alt="Gulp" width="26px" src="./src/img/gulpb.svg" />
-<img align="left" alt="Gulp" width="26px" src="./src/icon8-vue-js.svg" />
+<img align="left" alt="Vue" width="26px" src="./src/icons8-vue-js.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./src/img/jsb.svg" />
 <img align="left" alt="TypeScript" width="26px" src="./src/img/tsb.svg" />
 <img align="left" alt="React" width="26px" src="./src/img/react.svg" />
