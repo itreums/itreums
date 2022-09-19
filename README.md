@@ -7,7 +7,7 @@
 <img align="left" alt="CSS3" width="26px" src="./src/img/icons8-css3.svg" />
 <img align="left" alt="Sass" width="26px" src="./src/img/icons8-sass.svg" />
 <img align="left" alt="BEM" width="26px" src="./src/img/bem.svg" />
-<img align="left" alt="Gulp" width="26px" src="./src/img/icons8-gulp.svg" />
+<img align="left" alt="Gulp" width="26px" src="./src/img/gulp.svg" />
 <img align="left" alt="Vue" width="26px" src="./src/img/icons8-vue-js.svg" />
 <img align="left" alt="Nuxt" width="26px" src="./src/img/icons8-nuxtjs.svg" />
 
