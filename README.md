@@ -8,6 +8,7 @@
 <img align="left" alt="Sass" width="26px" src="./src/img/icons8-sass.svg" />
 <img align="left" alt="Gulp" width="26px" src="./src/img/icons8-gulp.svg" />
 <img align="left" alt="Vue" width="26px" src="./src/img/icons8-vue-js.svg" />
+<img align="left" alt="Nuxt" width="26px" src="./src/img/icons8-nuxtjs.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./src/img/icons8-javascript.svg" />
 
 <img align="left" alt="PHP" width="26px" src="./src/img/icons8-php.svg" />
