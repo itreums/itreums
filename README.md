@@ -3,10 +3,10 @@
 ### Языки и инструменты:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="./src/img/html.svg" />
-<img align="left" alt="CSS3" width="26px" src="./src/img/css.svg" />
-<img align="left" alt="Sass" width="26px" src="./src/img/sass.svg" />
-<img align="left" alt="Gulp" width="26px" src="./src/img/gulpb.svg" />
+<img align="left" alt="HTML5" width="26px" src="./src/img/icons8-html-5.svg" />
+<img align="left" alt="CSS3" width="26px" src="./src/img/icons8-css3.svg" />
+<img align="left" alt="Sass" width="26px" src="./src/img/icons8-sass.svg" />
+<img align="left" alt="Gulp" width="26px" src="./src/img/icons8-gulp.svg" />
 <img align="left" alt="Vue" width="26px" src="./src/img/icons8-vue-js.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./src/img/icons8-javascript.svg" />
 <img align="left" alt="TypeScript" width="26px" src="./src/img/tsb.svg" />
